@@ -1,4 +1,4 @@
-# cuzio_store auth
+# cuzio_auth
 
 A flutter project integrated with strappi backend.
 
